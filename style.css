@@ -114,3 +114,16 @@ margin-top: 6px ;
     transform: scale(1.3);
     transition: all 0.3s linear;
 }
+
+ @media (max-width: 750px){
+
+    body{
+      overflow-x: hidden;
+
+    }
+    .main_box{
+       
+        background-position: center;
+        
+    }
+}
